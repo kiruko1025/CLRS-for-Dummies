@@ -1,0 +1,44 @@
+\documentclass[a4paper,14pt,twoside]{extbook}
+\usepackage{tikz}
+\usepackage{import}
+\usepackage{xifthen}
+\usepackage{pdfpages}
+\usepackage{transparent}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{listing}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{xcolor}
+\usepackage{type1cm}         
+\usepackage{makeidx} 
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel} %Language
+\usepackage{multicol}        % used for the two-column index
+\usepackage[bottom]{footmisc}% places footnotes at page bottom
+\usepackage{newtxtext}       % 
+\usepackage{newtxmath}
+\usepackage{tabto}
+\usepackage{setspace}
+\graphicspath{ {Images/} }
+\setkeys{Gin}{width=0.85\textwidth}
+\title{CLRS for Dummies}
+\author{Everett}
+\date{1.22.2025}
+\begin{document}
+% Cover page
+\onehalfspacing
+\maketitle
+\tableofcontents
+\frontmatter%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\include{author/preface}
+
+\mainmatter%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\include{author/chapter1}
+
+\backmatter%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\printindex
+\end{document}

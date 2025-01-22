@@ -1,0 +1,4 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{Preface}{i}{}%
+\contentsline {chapter}{\numberline {1}The Role of Algorithms}{1}{}%
+\contentsline {section}{\numberline {1.1}Definitions}{1}{}%
