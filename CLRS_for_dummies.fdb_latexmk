@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1737583625 "/home/everett/CLRS_for_dummies/CLRS_for_dummies.tex" "CLRS_for_dummies.pdf" "CLRS_for_dummies" 1737583625
+["pdflatex"] 1737660259 "/home/everett/CLRS_for_dummies/CLRS_for_dummies.tex" "CLRS_for_dummies.pdf" "CLRS_for_dummies" 1737660260
   "/etc/texmf/web2c/texmf.cnf" 1726516895 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/everett/CLRS_for_dummies/CLRS_for_dummies.tex" 1737583625 1115 73e4599f02d188778a6c0cec78f1d6be ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1640468671 2914 8283dfc24eaf1964346f843d7605c2b0 ""
@@ -172,14 +172,14 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1727453536 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1727453992 2801319 b57abc372cdbebec083598fe8eeeb194 ""
-  "CLRS_for_dummies.aux" 1737583625 208 012c4453b85b4d521e7c3abf212d277d "pdflatex"
+  "CLRS_for_dummies.aux" 1737660260 208 012c4453b85b4d521e7c3abf212d277d "pdflatex"
   "CLRS_for_dummies.ind" 1737582245 0 d41d8cd98f00b204e9800998ecf8427e ""
   "CLRS_for_dummies.tex" 1737583625 1115 73e4599f02d188778a6c0cec78f1d6be ""
-  "CLRS_for_dummies.toc" 1737583625 198 d8d21fa65fb408c552f440b040e5ff8b "pdflatex"
-  "author/chapter1.aux" 1737583625 891 39c1514795e5d86a856d0f9306b912a7 "pdflatex"
-  "author/chapter1.tex" 1737583121 1005 6d159e75b767753756811e70a11dabcf ""
-  "author/preface.aux" 1737583625 759 31ca066e143b249ccebc670917b57de2 "pdflatex"
-  "author/preface.tex" 1737583453 98 5cfa75b404ba081686604671e7adcce4 ""
+  "CLRS_for_dummies.toc" 1737660260 198 d8d21fa65fb408c552f440b040e5ff8b "pdflatex"
+  "author/chapter1.aux" 1737660260 891 39c1514795e5d86a856d0f9306b912a7 "pdflatex"
+  "author/chapter1.tex" 1737660259 1260 235e5a433739841bb0eb3fc36811c757 ""
+  "author/preface.aux" 1737660260 759 31ca066e143b249ccebc670917b57de2 "pdflatex"
+  "author/preface.tex" 1737659323 160 d4bf234008d5c660753112dcb7b3e4ad ""
   (generated)
   "CLRS_for_dummies.aux"
   "CLRS_for_dummies.log"
