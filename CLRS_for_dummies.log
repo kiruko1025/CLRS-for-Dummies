@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.9.27)  23 JAN 2025 14:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.9.27)  23 JAN 2025 17:27
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -640,7 +640,7 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count322
 \l__pdf_internal_box=\box110
-) (./CLRS_for_dummies.aux (./author/preface.aux) (./author/chapter1.aux))
+) (./CLRS_for_dummies.aux (./author/preface.aux) (./author/chapter1.aux) (./author/chapter2.aux) (./author/chapter3.aux) (./author/chapter4.aux) (./author/chapter5.aux))
 \openout1 = `CLRS_for_dummies.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 29.
@@ -781,47 +781,103 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 20.74pt on input line 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--22
+Underfull \hbox (badness 10000) in paragraph at lines 3--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--22
+Underfull \hbox (badness 10000) in paragraph at lines 3--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--22
+Underfull \hbox (badness 10000) in paragraph at lines 3--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--22
+Underfull \hbox (badness 10000) in paragraph at lines 3--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--22
+Underfull \hbox (badness 10000) in paragraph at lines 3--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--28
 
  []
 
 [1
 
 
-]) [2] (./CLRS_for_dummies.ind) (./CLRS_for_dummies.aux (./author/preface.aux) (./author/chapter1.aux)) ) 
+]) [2]
+\openout2 = `author/chapter2.aux'.
+
+ (./author/chapter2.tex
+Chapter 2.
+) [3
+
+
+
+
+]
+\openout2 = `author/chapter3.aux'.
+
+ (./author/chapter3.tex [4
+
+
+
+
+]
+Chapter 3.
+) [5]
+\openout2 = `author/chapter4.aux'.
+
+ (./author/chapter4.tex [6
+
+
+
+
+]
+Chapter 4.
+) [7]
+\openout2 = `author/chapter5.aux'.
+
+ (./author/chapter5.tex [8
+
+
+
+
+]
+Chapter 5.
+) [9]
+Overfull \hbox (48.14015pt too wide) has occurred while \output is active
+\T1/ntxtlf/m/n/14.4 10 \T1/ntxtlf/m/sl/14.4 CHAPTER 5.  PROBABILISTIC ANALYSIS AND RANDOMIZED ALGORITHMS
+ []
+
+[10
+
+
+
+]
+No file CLRS_for_dummies.ind.
+(./CLRS_for_dummies.aux (./author/preface.aux) (./author/chapter1.aux) (./author/chapter2.aux) (./author/chapter3.aux) (./author/chapter4.aux) (./author/chapter5.aux)) ) 
 Here is how much of TeX's memory you used:
- 19271 strings out of 478287
- 361287 string characters out of 5849289
- 607779 words of memory out of 5000000
- 37054 multiletter control sequences out of 15000+600000
+ 19381 strings out of 478287
+ 364933 string characters out of 5849289
+ 610062 words of memory out of 5000000
+ 37138 multiletter control sequences out of 15000+600000
  528377 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,6n,104p,447b,225s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ecth-tlf.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on CLRS_for_dummies.pdf (8 pages, 109942 bytes).
+Output written on CLRS_for_dummies.pdf (16 pages, 122603 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
+ 90 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

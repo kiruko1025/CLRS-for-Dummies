@@ -2,3 +2,10 @@
 \contentsline {chapter}{Preface}{i}{}%
 \contentsline {chapter}{\numberline {1}The Role of Algorithms}{1}{}%
 \contentsline {section}{\numberline {1.1}Definitions}{1}{}%
+\contentsline {chapter}{\numberline {2}Getting Started}{3}{}%
+\contentsline {section}{\numberline {2.1}Pseudocode conventions}{3}{}%
+\contentsline {section}{\numberline {2.2}Insertion Sort}{3}{}%
+\contentsline {section}{\numberline {2.3}Loop Invariant}{3}{}%
+\contentsline {chapter}{\numberline {3}Growth of Functions}{5}{}%
+\contentsline {chapter}{\numberline {4}Divide and Conquer}{7}{}%
+\contentsline {chapter}{\numberline {5}Probabilistic Analysis and Randomized Algorithms}{9}{}%
