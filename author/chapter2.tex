@@ -1,5 +1,39 @@
 \chapter{Getting Started}
-\section{Pseudocode conventions}
-
 \section{Insertion Sort}
+\textbf{Illustration:} 
+\\
+\textbf{Pseudocode:}  
+\begin{lstlisting}[language=Python, numbers=left]
+def InsertionSort(arr[]):
+	for j=1 to arr.length - 1:
+		value = arr[j]
+		i = j - 1
+		while i >= 0 and arr[i] > value:
+			arr[i + 1] = arr[i]
+			i = i - 1
+		arr[i + 1] = value
+	return arr
+\end{lstlisting}
+\textbf{Explanation:}
+\begin{enumerate}
+	\item Declare function with one parameter the input array arr.
+	\item Iterate index $j$ from 0 to the last index (one less than length of the array).
+	\item Put value of element $arr[j]$ in the variable $value$ 
+	\item For each iteration, get the previous index $i=j-1$.
+	\item If $i\geq0$ which means $arr[i]$ is not out of our array, and $arr[i]$ is bigger than $value$
+	\item Move $arr[i]$ to the right by setting $arr[i+1]=i$
+	\item Once we iterated through all the element before $value$ or we reached a value smaller than $value$, put $value$ at $arr[i+1]$ where it should be in the sorted sub array.
+	\item Return the array $arr$ that is now sorted
+\end{enumerate} 
+
 \section{Loop Invariant}
+How do we know our algorithm is correct? One way to check is to use the loop Invariant. There are 
+three part of loop invariant. \\\\
+\textbf{Initialization:} Loop invariant is true before the loop begins.\\
+\textbf{Maintenance:} It will remain true after every single iteration.\\
+\textbf{Termination:} The loop invariant is still true, but it also has to show that the algorithm produces correct output.\\\\
+\vspace*{0.2cm}{\large\textbf{Loop Invariant of Insertion Sort}}\\ 
+Let's look at the loop invariant of insertion sort as an example.\\
+
+\section{Analyzing Algorithms}
+\section{Designing Algorithms with Divide and Conquer}
